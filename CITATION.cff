@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated research and this repository when using the code."
+title: "Unveiling the Impact and Dual Innovation of Funded Research"
+type: software
+authors:
+  - family-names: Yang
+    given-names: Alex J.
+repository-code: "https://github.com/AlexJieYang/Funded-Research-Impact-and-Dual-Innovation"

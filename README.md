@@ -40,8 +40,7 @@ python -m pip install -r requirements.txt
 ```
 
 Copy `config.example.json` to `config.json`. Set `data_dir` to the study-data
-directory and `output_dir` to the figure destination. Repositories with regression
-figures also use `regression_dir` for regression tables. Relative paths resolve
+directory and `output_dir` to the figure destination. Relative paths resolve
 from the repository root; absolute paths are accepted. `RESEARCH_CONFIG` selects
 another configuration file.
 

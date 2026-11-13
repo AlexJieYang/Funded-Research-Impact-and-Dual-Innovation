@@ -4,6 +4,8 @@ Research code for **Unveiling the Impact and Dual Innovation of Funded Research*
 by Alex J. Yang. The analysis compares NIH-funded, NSF-funded, and other research
 using impact, novelty, and disruption measures.
 
+Author: Alex J. Yang · [Official Nanjing University profile](https://im.nju.edu.cn/info/1103/53391.htm)
+
 ## Workflow
 
 Configure `data_dir` for the study's paper-level analysis and field lookup tables.
